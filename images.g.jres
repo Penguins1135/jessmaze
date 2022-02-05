@@ -1,0 +1,17 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Enemy"
+    },
+    "image1": {
+        "data": "hwQKAAoAAABjNjMzqgAAADNmNqM6AAAA/zM2ozoAAADfY2aqOgAAAO9tZqozAAAA32JmqjMAAADvbWaqMwAAAN9jZqMzAAAA/zM2o6oAAABjZjYzowAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Jess"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
